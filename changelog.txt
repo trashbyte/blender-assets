@@ -1,0 +1,27 @@
+This file tracks all changes since the initial commit. You can check here to see if I've added anything new since you last checked, and what the new things are.
+
+--- 29 October 2023 ---
+
+Models
+ ↳ Electronics
+   ↳ Keyboard 01
+   ↳ CRT Display 01
+ ↳ Plants
+   ↳ Potted
+     ↳ Potted Plant 01
+     ↳ Potted Plant 02
+     ↳ Potted Plant 03
+ ↳ Structures
+   ↳ Torii 01
+Materials
+ ↳ Node Groups
+   ↳ Imperfections
+     ↳ Surface Imperfections 01
+   ↳ Patterns and Generators
+     ↳ Test Pattern EBU 100/0/75/0
+     ↳ Test Pattern EIA 1956
+     ↳ Test Pattern PM5540
+     ↳ Test Pattern PM5544
+     ↳ Test Pattern RCA "Indian Head"
+     ↳ Test Pattern SMPTE
+     ↳ Test Pattern Telefunken FuBK

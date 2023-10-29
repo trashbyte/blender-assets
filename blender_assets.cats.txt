@@ -9,11 +9,17 @@ VERSION 1
 cad75aa9-5549-4785-af7f-6ce869be86c9:HDRIs:HDRIs
 3372a96c-c185-442c-99b7-6ab09bc25688:Materials:Materials
 729077a7-88ea-440b-ad63-18498cdc231d:Materials/Node Groups:Materials-Node Groups
+741bbb42-502e-439b-92d1-08f55a584854:Materials/Node Groups/Imperfections:Materials-Node Groups-Imperfections
+a7d274ff-1408-4de3-afb4-c41db2aee9c7:Materials/Node Groups/Patterns and Generators:Materials-Node Groups-Patterns and Generators
 c7a84f46-a799-4dcb-8249-0ee851ea2472:Materials/Procedural Metals:Materials-Procedural Metals
 8ade0830-56af-4dbc-ae7a-fc08ba904715:Materials/Stone:Materials-Stone
 aae70a52-ec49-433b-a3fb-0cf5f47c08bd:Materials/Stone/Processed:Materials-Stone-Processed
 f011910b-c6ca-4dc2-91ef-b1fd4a7775ce:Materials/Wood:Materials-Wood
 0c529c51-c555-43d7-a8f0-e1ddb72eeb35:Models:Models
+13a76a03-eac0-476f-9d3d-1ada3397dab1:Models/Electronics:Models-Electronics
 8b13e1d4-ec15-485e-b5b1-413605427003:Models/Fixtures:Models-Fixtures
 acf81534-3674-4b46-ae42-5cd5e6cad99b:Models/Food and Drink:Models-Food and Drink
 84e3885b-60ff-4f2a-b289-a585ac44f4bc:Models/Furniture:Models-Furniture
+7c1ff84e-d7e8-429d-81b0-a8f1950885e4:Models/Plants:Models-Plants
+d25d11ce-f9c5-471d-a592-aac8d1114b9f:Models/Plants/Potted:Models-Plants-Potted
+829aa63d-57a7-43fb-847f-9ce6a5218794:Models/Structures:Models-Structures
