@@ -11,12 +11,26 @@ HDRIs
  ↳ Colorful Studio
  ↳ Comfy Cafe
  ↳ Cyclorama Hard Light
+ ↳ Drachenfels Cellar
+ ↳ Dresden Square
+ ↳ Dresden Station Night
+ ↳ Empty Warehouse 01
+ ↳ En Suite
+ ↳ Fireplace
+ ↳ Floral Tent
+ ↳ Garden Nook
+ ↳ Glass Passage
+ ↳ Graffiti Shelter
+ ↳ Herkulessaulen
+ ↳ Hospital Room
+ ↳ Indoor Pool
  ↳ Kloofendal 28d Misty (Pure Sky)
  ↳ Kloofendal Misty Morning (Pure Sky)
  ↳ Small Empty Room 01
  ↳ Syferfontein 1d Clear (Pure Sky)
  ↳ Syferfontein 18d Clear (Pure Sky)
  ↳ Table Mountain 02 (Pure Sky)
+ ↳ Veranda
 Models
  ↳ Electronics
    ↳ Keyboard 01
