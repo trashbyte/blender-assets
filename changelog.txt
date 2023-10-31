@@ -1,5 +1,59 @@
 This file tracks all changes since the initial commit. You can check here to see if I've added anything new since you last checked, and what the new things are.
 
+--- 30 October 2023 ---
+
+HDRIs
+ ↳ Abandoned Factory Canteen 02
+ ↳ Blue Photo Studio
+ ↳ Dikhololo Night
+ ↳ Indoor Environment 01
+ ↳ Indoor Environment 02
+ ↳ Industrial Pipe And Valve 01
+ ↳ Industrial Pipe And Valve 02
+ ↳ Industrial Workshop Foundry
+ ↳ Interior Construction
+ ↳ Kiara 01 Dawn
+ ↳ Lapa
+ ↳ Lauter Waterfall
+ ↳ Lebomo
+ ↳ Lythwood Lounge
+ ↳ Machine Shop 01
+ ↳ Meadow
+ ↳ Mosaic Tunnel
+ ↳ Music Hall 01
+ ↳ Old Bus Depot
+ ↳ Old Hall
+ ↳ Parking Garage
+ ↳ Paul Lobe Haus
+ ↳ Peppermint Powerplant 02
+ ↳ Pillars
+ ↳ Pine Attic
+ ↳ Rathaus
+ ↳ Rooftop Day
+ ↳ Rooftop Night
+ ↳ Rooitou Park
+ ↳ School Hall
+ ↳ Shanghai Bund
+ ↳ Small Cave
+ ↳ Small Empty House
+ ↳ St. Fagans Interior
+ ↳ Studio Small 01
+ ↳ Studio Small 02
+ ↳ Studio Small 03
+ ↳ Studio Small 04
+ ↳ Studio Small 05
+ ↳ Studio Small 06
+ ↳ Studio Small 07
+ ↳ Studio Small 08
+ ↳ Studio Small 09
+ ↳ Subway Entrance
+ ↳ Sunny Vondelpark
+ ↳ Teufelsberg Inner
+ ↳ TV Studio
+ ↳ Unfinished Office
+ ↳ Wooden Lounge
+ ↳ Workshop
+
 --- 29 October 2023 ---
 
 HDRIs
