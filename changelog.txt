@@ -1,5 +1,49 @@
 This file tracks all changes since the initial commit. You can check here to see if I've added anything new since you last checked, and what the new things are.
 
+--- 9 November 2023 ---
+
+Materials
+ ↳ Ceramics
+   ↳ Porcelain 01
+   ↳ Porcelain 01 No Subsurf
+ ↳ Misc
+   ↳ Glass
+     ↳ Glass 01
+     ↳ Glass ArchVis Facade Transmission
+     ↳ Glass ArchVis Facade Transmission Distortion
+     ↳ Glass ArchVis Facade Transparent
+     ↳ Glass Fast Aberration
+ ↳ Procedural Metals
+   ↳ Stainless Steel Brushed Heavy Scratches
+ ↳ Wood
+   ↳ Wood 028
+   ↳ Wood 028 Displacement
+Models
+ ↳ Furniture
+   ↳ Center Table
+   ↳ Tripod Table
+ ↳ Food and Drink
+   ↳ Baguette 01
+   ↳ Croissant 01
+   ↳ Donut 01
+   ↳ Wine Bottle 01
+   ↳ Wine Bottle 02
+   ↳ Wine Bottle 03
+   ↳ Drinkware
+     ↳ Old Fashioned Glass 01
+     ↳ Old Fashioned Glass 02
+     ↳ Old Fashioned Glass 03
+     ↳ Stemless Wine Glass 01
+     ↳ Wine Glass 01
+     ↳ Wine Glass 02
+     ↳ Wine Glass 03
+     ↳ Wine Glass 04
+     ↳ Wine Flute 01
+ ↳ Plants
+   ↳ Potted
+     ↳ Potted Plant 04
+     ↳ Potted Plant 05
+
 --- 30 October 2023 ---
 
 HDRIs
