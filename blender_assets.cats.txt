@@ -17,13 +17,17 @@ a7d274ff-1408-4de3-afb4-c41db2aee9c7:Materials/Node Groups/Patterns and Generato
 c7a84f46-a799-4dcb-8249-0ee851ea2472:Materials/Procedural Metals:Materials-Procedural Metals
 8ade0830-56af-4dbc-ae7a-fc08ba904715:Materials/Stone:Materials-Stone
 aae70a52-ec49-433b-a3fb-0cf5f47c08bd:Materials/Stone/Processed:Materials-Stone-Processed
+e375d210-f6bc-43f9-ab7e-96df50eedc00:Materials/Textiles:Materials-Textiles
 f011910b-c6ca-4dc2-91ef-b1fd4a7775ce:Materials/Wood:Materials-Wood
 0c529c51-c555-43d7-a8f0-e1ddb72eeb35:Models:Models
 13a76a03-eac0-476f-9d3d-1ada3397dab1:Models/Electronics:Models-Electronics
 8b13e1d4-ec15-485e-b5b1-413605427003:Models/Fixtures:Models-Fixtures
 acf81534-3674-4b46-ae42-5cd5e6cad99b:Models/Food and Drink:Models-Food and Drink
 6f4d9e83-8f9e-46b7-a9c8-4bcc113ab673:Models/Food and Drink/Drinkware:Models-Food and Drink-Drinkware
+59a4f212-3f9c-40e2-adb0-46c5b3fdf69c:Models/Food and Drink/Tableware:Models-Food and Drink-Tableware
 84e3885b-60ff-4f2a-b289-a585ac44f4bc:Models/Furniture:Models-Furniture
+373605ee-a376-43fd-81ce-6e7c93f9324b:Models/Lighting:Models-Lighting
 7c1ff84e-d7e8-429d-81b0-a8f1950885e4:Models/Plants:Models-Plants
 d25d11ce-f9c5-471d-a592-aac8d1114b9f:Models/Plants/Potted:Models-Plants-Potted
+72eb2e7c-ee5c-4138-9eaf-b268399846cb:Models/Plumbing:Models-Plumbing
 829aa63d-57a7-43fb-847f-9ce6a5218794:Models/Structures:Models-Structures

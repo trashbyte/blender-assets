@@ -1,5 +1,66 @@
 This file tracks all changes since the initial commit. You can check here to see if I've added anything new since you last checked, and what the new things are.
 
+--- 21 December 2023 ---
+
+Materials
+ ↳ Stone
+   ↳ Processed
+     ↳ Concrete Tiles 01
+     ↳ Concrete Tiles 02
+     ↳ Concrete Tiles 03
+     ↳ Concrete Tiles 04
+     ↳ Concrete Tiles 04 Displacement
+     ↳ Concrete Tiles 05
+     ↳ Concrete Tiles 05 Displacement
+     ↳ Concrete Tiles 06
+ ↳ Textiles
+   ↳ Upholstery 01
+ ↳ Wood
+   ↳ Wood Painted 01
+   ↳ Wood Parquet 01
+   ↳ Wood Parquet 01 Stained
+Models
+ ↳ Food and Drink
+   ↳ Danish 01
+   ↳ Mango 01
+   ↳ Pear 01
+   ↳ Water Bottle 01
+   ↳ Whiskey Bottle 01
+   ↳ Drinkware
+     ↳ Bendy Straw 01
+     ↳ Collins Glass 01
+     ↳ Cup Disposable 01
+     ↳ Cup Plastic 01
+     ↳ Cup Small Square 01
+     ↳ Mug 01
+     ↳ Pitcher 01
+   ↳ Tableware
+     ↳ Bowl 01
+     ↳ Bowl Large 01
+     ↳ Bowl Large Squircle 01
+     ↳ Bowl Lipped Oval 01
+     ↳ Bowl Lipped Squircle 01
+     ↳ Bowl Shallow 01
+     ↳ Bowl Tiny 01
+     ↳ Bowl Tiny 02
+     ↳ Plate Concave Round 01
+     ↳ Plate Concave Squircle 01
+     ↳ Plate Flat Round 01
+     ↳ Plate Flat Round 02
+     ↳ Plate Flat Round 03
+     ↳ Plate Flat Round 04
+     ↳ Platter Oval 01
+     ↳ Platter Square 01
+     ↳ Platter Square 02
+     ↳ Teapot
+ ↳ Furniture
+   ↳ Dining Chair 01
+   ↳ Dining Table 01
+ ↳ Lighting
+   ↳ Light Bar 01
+ ↳ Plumbing
+   ↳ Sink Faucet 01
+
 --- 9 November 2023 ---
 
 Materials
@@ -34,11 +95,11 @@ Models
      ↳ Old Fashioned Glass 02
      ↳ Old Fashioned Glass 03
      ↳ Stemless Wine Glass 01
+     ↳ Wine Flute 01
      ↳ Wine Glass 01
      ↳ Wine Glass 02
      ↳ Wine Glass 03
      ↳ Wine Glass 04
-     ↳ Wine Flute 01
  ↳ Plants
    ↳ Potted
      ↳ Potted Plant 04
